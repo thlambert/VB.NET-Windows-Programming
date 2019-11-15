@@ -1,0 +1,18 @@
+c:\users\lambertth\documents\visual studio 2015\Projects\Lambertth_Prog5\Prog5GUI\bin\Debug\Prog5GUI.exe.config
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\bin\Debug\Prog5GUI.exe.config
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\bin\Debug\Prog5GUI.exe
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\bin\Debug\Prog5GUI.pdb
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\bin\Debug\Prog5GUI.xml
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\obj\Debug\Prog5GUI.vbprojResolveAssemblyReference.cache
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\obj\Debug\Prog5GUI.Resources.resources
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\obj\Debug\Prog5GUI.ReaderWriterForm.resources
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\obj\Debug\Prog5GUI.vbproj.GenerateResource.Cache
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\obj\Debug\Prog5GUI.exe
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\obj\Debug\Prog5GUI.xml
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\obj\Debug\Prog5GUI.pdb
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\bin\Debug\DatabaseClass.dll
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\bin\Debug\WRClasses.dll
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\bin\Debug\DatabaseClass.pdb
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\bin\Debug\DatabaseClass.xml
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\bin\Debug\WRClasses.pdb
+J:\Programming\Windows\Lambertth_Prog5\Prog5GUI\bin\Debug\WRClasses.xml

@@ -1,0 +1,12 @@
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\bin\Debug\WRClasses.dll
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\bin\Debug\WRClasses.pdb
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\bin\Debug\WRClasses.xml
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\bin\Debug\DatabaseClass.dll
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\bin\Debug\DatabaseClass.pdb
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\bin\Debug\DatabaseClass.xml
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\obj\Debug\ReaderWriterClasses.vbprojResolveAssemblyReference.cache
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\obj\Debug\UWPCS3340.Resources.resources
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\obj\Debug\ReaderWriterClasses.vbproj.GenerateResource.Cache
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\obj\Debug\WRClasses.dll
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\obj\Debug\WRClasses.xml
+J:\Programming\Windows\Lambertth_Prog5\ReaderWriterClasses\obj\Debug\WRClasses.pdb

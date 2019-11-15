@@ -1,0 +1,9 @@
+J:\Programming\Windows\Lambertth_Prog5\DatabaseClass\bin\Debug\DatabaseClass.dll
+J:\Programming\Windows\Lambertth_Prog5\DatabaseClass\bin\Debug\DatabaseClass.pdb
+J:\Programming\Windows\Lambertth_Prog5\DatabaseClass\bin\Debug\DatabaseClass.xml
+J:\Programming\Windows\Lambertth_Prog5\DatabaseClass\obj\Debug\DatabaseClass.vbprojResolveAssemblyReference.cache
+J:\Programming\Windows\Lambertth_Prog5\DatabaseClass\obj\Debug\UWPCS3340.Resources.resources
+J:\Programming\Windows\Lambertth_Prog5\DatabaseClass\obj\Debug\DatabaseClass.vbproj.GenerateResource.Cache
+J:\Programming\Windows\Lambertth_Prog5\DatabaseClass\obj\Debug\DatabaseClass.dll
+J:\Programming\Windows\Lambertth_Prog5\DatabaseClass\obj\Debug\DatabaseClass.xml
+J:\Programming\Windows\Lambertth_Prog5\DatabaseClass\obj\Debug\DatabaseClass.pdb
