@@ -1,0 +1,9 @@
+J:\Programming\Windows\Lambertth_Prog4\UserClass\obj\Debug\UWPCS3340.Resources.resources
+J:\Programming\Windows\Lambertth_Prog4\UserClass\obj\Debug\UserClass.vbproj.GenerateResource.Cache
+J:\Programming\Windows\Lambertth_Prog4\UserClass\obj\Debug\UserClass.xml
+J:\Programming\Windows\Lambertth_Prog4\UserClass\bin\Debug\UserClass.dll
+J:\Programming\Windows\Lambertth_Prog4\UserClass\bin\Debug\UserClass.pdb
+J:\Programming\Windows\Lambertth_Prog4\UserClass\bin\Debug\UserClass.xml
+J:\Programming\Windows\Lambertth_Prog4\UserClass\obj\Debug\UserClass.dll
+J:\Programming\Windows\Lambertth_Prog4\UserClass\obj\Debug\UserClass.pdb
+J:\Programming\Windows\Lambertth_Prog4\UserClass\obj\Debug\UserClass.vbprojResolveAssemblyReference.cache

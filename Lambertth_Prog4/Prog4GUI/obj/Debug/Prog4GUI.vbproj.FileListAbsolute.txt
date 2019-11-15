@@ -1,0 +1,14 @@
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\bin\Debug\Prog4GUI.exe.config
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\obj\Debug\Prog4GUI.vbprojResolveAssemblyReference.cache
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\obj\Debug\Prog4GUI.FormClassThread.resources
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\obj\Debug\Prog4GUI.Resources.resources
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\obj\Debug\Prog4GUI.vbproj.GenerateResource.Cache
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\obj\Debug\Prog4GUI.xml
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\bin\Debug\Prog4GUI.exe
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\bin\Debug\Prog4GUI.pdb
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\bin\Debug\Prog4GUI.xml
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\bin\Debug\UserClass.dll
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\bin\Debug\UserClass.pdb
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\bin\Debug\UserClass.xml
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\obj\Debug\Prog4GUI.exe
+J:\Programming\Windows\Lambertth_Prog4\Prog4GUI\obj\Debug\Prog4GUI.pdb
