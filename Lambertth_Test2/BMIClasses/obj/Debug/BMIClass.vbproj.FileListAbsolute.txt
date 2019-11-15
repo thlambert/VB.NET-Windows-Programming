@@ -1,0 +1,9 @@
+F:\YangQ_Test2\BMIClass\bin\Debug\BMIClass.dll
+F:\YangQ_Test2\BMIClass\bin\Debug\BMIClass.pdb
+F:\YangQ_Test2\BMIClass\bin\Debug\BMIClass.xml
+F:\YangQ_Test2\BMIClass\obj\Debug\BMIClass.vbprojResolveAssemblyReference.cache
+F:\YangQ_Test2\BMIClass\obj\Debug\UWPCS3340.Resources.resources
+F:\YangQ_Test2\BMIClass\obj\Debug\BMIClass.vbproj.GenerateResource.Cache
+F:\YangQ_Test2\BMIClass\obj\Debug\BMIClass.dll
+F:\YangQ_Test2\BMIClass\obj\Debug\BMIClass.xml
+F:\YangQ_Test2\BMIClass\obj\Debug\BMIClass.pdb
