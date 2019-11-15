@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HouseClasses", "HouseClasses\HouseClasses.vbproj", "{EDD5C6F3-F12A-4E23-A8F5-4979F50D59E0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FormClasses", "FormClasses\FormClasses.vbproj", "{DC40E52F-E607-4EE6-A72E-1C061CC7699D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Prog3GUI", "Prog3GUI\Prog3GUI.vbproj", "{70E40B17-F386-4E8F-95CA-EAC8E4D0A924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD5C6F3-F12A-4E23-A8F5-4979F50D59E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD5C6F3-F12A-4E23-A8F5-4979F50D59E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD5C6F3-F12A-4E23-A8F5-4979F50D59E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD5C6F3-F12A-4E23-A8F5-4979F50D59E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC40E52F-E607-4EE6-A72E-1C061CC7699D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC40E52F-E607-4EE6-A72E-1C061CC7699D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC40E52F-E607-4EE6-A72E-1C061CC7699D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC40E52F-E607-4EE6-A72E-1C061CC7699D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E40B17-F386-4E8F-95CA-EAC8E4D0A924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E40B17-F386-4E8F-95CA-EAC8E4D0A924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E40B17-F386-4E8F-95CA-EAC8E4D0A924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E40B17-F386-4E8F-95CA-EAC8E4D0A924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
