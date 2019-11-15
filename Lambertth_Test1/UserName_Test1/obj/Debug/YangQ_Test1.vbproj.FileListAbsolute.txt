@@ -1,0 +1,16 @@
+F:\YangQ_Test1\YangQ_Test1\bin\Debug\YangQ_Test1.exe.config
+F:\YangQ_Test1\YangQ_Test1\bin\Debug\YangQ_Test1.exe
+F:\YangQ_Test1\YangQ_Test1\bin\Debug\YangQ_Test1.pdb
+F:\YangQ_Test1\YangQ_Test1\bin\Debug\YangQ_Test1.xml
+F:\YangQ_Test1\YangQ_Test1\obj\Debug\YangQ_Test1.vbprojResolveAssemblyReference.cache
+F:\YangQ_Test1\YangQ_Test1\obj\Debug\YangQ_Test1.FormClassButton.resources
+F:\YangQ_Test1\YangQ_Test1\obj\Debug\YangQ_Test1.FormClassJump.resources
+F:\YangQ_Test1\YangQ_Test1\obj\Debug\YangQ_Test1.Resources.resources
+F:\YangQ_Test1\YangQ_Test1\obj\Debug\YangQ_Test1.vbproj.GenerateResource.Cache
+F:\YangQ_Test1\YangQ_Test1\obj\Debug\YangQ_Test1.exe
+F:\YangQ_Test1\YangQ_Test1\obj\Debug\YangQ_Test1.xml
+F:\YangQ_Test1\YangQ_Test1\obj\Debug\YangQ_Test1.pdb
+F:\UserName_Test1\YangQ_Test1\bin\Debug\YangQ_Test1.exe.config
+F:\UserName_Test1\YangQ_Test1\obj\Debug\YangQ_Test1.exe
+F:\UserName_Test1\YangQ_Test1\obj\Debug\YangQ_Test1.xml
+F:\UserName_Test1\YangQ_Test1\obj\Debug\YangQ_Test1.pdb
