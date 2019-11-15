@@ -1,0 +1,14 @@
+F:\YangQ_Test2\BMIClasses\obj\Debug\BMIFormClasse.vbprojResolveAssemblyReference.cache
+F:\YangQ_Test2\BMIClasses\obj\Debug\BMIFormClasse.vbproj.GenerateResource.Cache
+F:\YangQ_Test2\BMIClasses\bin\Debug\BMIClasses.pdb
+F:\YangQ_Test2\BMIClasses\bin\Debug\BMIClasses.xml
+F:\YangQ_Test2\BMIClasses\bin\Debug\BMIClasses.dll
+F:\YangQ_Test2\BMIClasses\obj\Debug\UWPCS3340.FormClassBMI.resources
+F:\YangQ_Test2\BMIClasses\obj\Debug\UWPCS3340.Resources.resources
+F:\YangQ_Test2\BMIClasses\bin\Debug\BMIFormClasses.dll.config
+F:\YangQ_Test2\BMIClasses\bin\Debug\BMIFormClasses.dll
+F:\YangQ_Test2\BMIClasses\bin\Debug\BMIFormClasses.pdb
+F:\YangQ_Test2\BMIClasses\bin\Debug\BMIFormClasses.xml
+F:\YangQ_Test2\BMIClasses\obj\Debug\BMIFormClasses.dll
+F:\YangQ_Test2\BMIClasses\obj\Debug\BMIFormClasses.xml
+F:\YangQ_Test2\BMIClasses\obj\Debug\BMIFormClasses.pdb
