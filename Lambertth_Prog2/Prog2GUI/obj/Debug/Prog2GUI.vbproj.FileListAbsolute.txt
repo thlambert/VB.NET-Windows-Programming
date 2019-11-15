@@ -1,0 +1,15 @@
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\obj\Debug\Prog2GUI.vbprojResolveAssemblyReference.cache
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\obj\Debug\Prog2GUI.vbproj.GenerateResource.Cache
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\bin\Debug\FormClasses.exe.config
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\obj\Debug\UWPCS3340.FormClassHouse.resources
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\obj\Debug\UWPCS3340.FormClassList.resources
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\obj\Debug\UWPCS3340.Resources.resources
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\obj\Debug\FormClasses.xml
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\bin\Debug\FormClasses.exe
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\bin\Debug\FormClasses.pdb
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\bin\Debug\FormClasses.xml
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\bin\Debug\PVIHouseClasses.dll
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\bin\Debug\PVIHouseClasses.pdb
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\bin\Debug\PVIHouseClasses.xml
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\obj\Debug\FormClasses.exe
+J:\Programming\Windows\Lambertth_Prog2\Prog2GUI\obj\Debug\FormClasses.pdb
