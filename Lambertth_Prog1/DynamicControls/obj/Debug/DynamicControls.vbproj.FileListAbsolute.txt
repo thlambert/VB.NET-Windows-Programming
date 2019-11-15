@@ -1,0 +1,12 @@
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\bin\Debug\DynamicControls.exe.config
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\bin\Debug\DynamicControls.exe
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\bin\Debug\DynamicControls.pdb
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\bin\Debug\DynamicControls.xml
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\obj\Debug\DynamicControls.vbprojResolveAssemblyReference.cache
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\obj\Debug\DynamicControls.FormClassCreate.resources
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\obj\Debug\DynamicControls.FormClassShow.resources
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\obj\Debug\DynamicControls.Resources.resources
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\obj\Debug\DynamicControls.vbproj.GenerateResource.Cache
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\obj\Debug\DynamicControls.exe
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\obj\Debug\DynamicControls.xml
+J:\Programming\Windows\Lambertth_Prog1\DynamicControls\obj\Debug\DynamicControls.pdb
